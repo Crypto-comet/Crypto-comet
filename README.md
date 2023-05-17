@@ -102,8 +102,6 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 
 #### Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course By Patrick Collins
 
-#### (Click On Them in order to Verify - Address => 0x640Ed06a77eCBc74A34C5B7d927Fc311062f008f)
-
 <p align="center">
 <a href="https://opensea.io/assets/arbitrum/0xaacb0b62aeb7db938f12161da0e45fc3b2b34179/229"><img src="https://user-images.githubusercontent.com/56123405/222080407-fbae8c64-ae36-4959-8f62-ddf37c18b27d.png" width="33%"></a>
 <a href="https://opensea.io/assets/arbitrum/0xa457a0f9b6edbec66941d7ed1d4d4834330abf52/150"><img src="https://user-images.githubusercontent.com/56123405/222081549-dd7aa920-dcd9-428c-80cc-9185feb99069.png" width="33%"></a>
