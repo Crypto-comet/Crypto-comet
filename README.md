@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center">I am a Software Engineer & working as a Full Stack Blockchain Developer.</h3>
 
-<h3 align="center">Connect with me on:</h3>
-
-<p align="center">
-    <a href="https://alymurtazamemon.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/alymurtazamemon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/alymurtazamemon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://medium.com/@alymurtazamemon"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://alymurtazamemon.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="https://dev.to/alymurtazamemon"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-</p>
-
-<h1 align="center">This is my little contribution in Hacktoberfest 2022</h1>
-<a href="https://holopin.io/@alymurtazamemon/"><img src="https://holopin.me/alymurtazamemon"></a>
-
 ---
 
 <br>
@@ -110,17 +96,6 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 
 <br>
 
-<p align="center">
-<a href="https://github.com/alymurtazamemon?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alymurtazamemon&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="alymurtazamemon github-readme-stats"/></a>
-<a href="https://github.com/alymurtazamemon?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=alymurtazamemon&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="alymurtazamemon github-readme-streak-stats"/></a>
-</p>
-
-<p align="center">
-    <a href="">
-        <img src="https://activity-graph.herokuapp.com/graph?username=alymurtazamemon&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="alymurtazamemon activity graph">
-    </a>
-</p>
-
 ---
 
 ## Blockchain Courses - Challenges NFTs & Certifications
@@ -145,5 +120,3 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 
 ---
 ### If you like my open source work and want to support me then donate here, Thanks! 
-
-ETH/Polygon/Avalanche/etc Address: 0x640Ed06a77eCBc74A34C5B7d927Fc311062f008f
