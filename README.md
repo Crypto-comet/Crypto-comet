@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56123405/177948825-cb6ca0f0-5b86-45eb-b896-a2710c87e47a.png">
-
-<h1 align="center">Hi 👋, My name is Ali Murtaza</h1>
+<h1 align="center">Hi 👋, there</h1>
 <h3 align="center">I am a Software Engineer & working as a Full Stack Blockchain Developer.</h3>
 
 <h3 align="center">Connect with me on:</h3>
@@ -23,7 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
-- 👨‍💻 I am currently building on **Ethereum Blockchain**
+- 👨‍💻 I am currently building on **Ethereum & Hyperledger**
 
 - 🌱 I’m currently learning **Web2 & Web3 Technologies**
 
@@ -31,11 +29,7 @@
 
 - 🤝 I am looking to meet with **Builders**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alymurtazamemon?tab=repositories](https://github.com/alymurtazamemon?tab=repositories)
-
 - 💬 Ask me about **Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, Flutter, Dart.**
-
-- 📫 How to reach me **alimurtaza-assistant@outlook.com**
 
 <br>
 
