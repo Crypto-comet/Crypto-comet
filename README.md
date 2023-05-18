@@ -96,8 +96,6 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 
 <br>
 
----
-
 <div align="center">
   <video src="https://user-images.githubusercontent.com/56123405/226983438-1db7dce7-3bc4-41d3-8702-8820f51c5f14.mp4" />
 <div/>
